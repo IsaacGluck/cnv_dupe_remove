@@ -1,0 +1,214 @@
+source	chr	start	end	type	description	Number	Duplicates	Identical
+Cooper Table 1	1	10000	10077413	DEL/DUP	DEL: 1p36 deletion syndrome (GABRD)a, DUP: 1p36 duplication (GABRD)a	1		
+Betancur Table 2	1	10001	5408761	DEL	1p36 microdeletion syndrome	2	Dup of: 1	
+Cooper Table 1	1	145288643	145628643	DEL/DUP	DEL: TAR deletion (HFE2), DUP: 1q21.1 duplication (HFE2)	3		
+Betancur Table 2	1	146512376	147737376	DEL/DUP	1q21.1 recurrent microdeletion/microduplication syndrome	4		
+Cooper Table 1	1	146573376	147393376	DEL/DUP	DEL: 1q21.1 deletion (GJA5), DUP: 1q21.1 duplication (GJA5)	5	Dup of: 4	
+Cooper Table 2	1	171733377	172333377	DEL	possibly pathogenic deletion: 1q24.3	6		
+Betancur Table 1	1	46654352	46685977		Muscle-eye-brain disease; POMGNT1	7		
+Betancur Table 1	1	68894506	68915642		Leber congenital amaurosis; RPE65	8		
+Betancur Table 1	1	97543299	98386615		Dihydropyrimidine dehydrogenase deficiency; DPYD	9		
+Betancur Table 1	10	123237843	123357972		Apert syndrome; FGFR2	10		
+Betancur Table 2	10	128010010	135524747	DEL	distal 10q deletion syndrome	11		
+Betancur Table 2	10	4710001	10559994	DEL	10p14p15 deletion syndrome	12		
+Cooper Table 2	10	81610020	88910020	DEL	possibly pathogenic deletion: 10q23.1	13		
+Betancur Table 2	10	81692664	88942014	DEL	10q22-q23 deletion	14	Dup of: 13	
+Cooper Table 1	10	81960020	88800020	DEL/DUP	DEL: 10q23 deletion (NRG3, GRID1), DUP: 10q23 duplication (NRG3, GRID1)	15	Dup of: 13 , 14	
+Betancur Table 1	10	89623194	89728532		PTEN hamartoma-tumor syndrome, MR and ASD with macrocephaly; PTEN	16		
+Betancur Table 2	11	115894791	134946516	DEL	11q deletion syndrome (Jacobsen syndrome)	17		
+Betancur Table 1	11	17406795	17410878		DEND syndrome (developmental delay, epilepsy, and neonatal diabetes); KCNJ11	18		
+Betancur Table 2	11	2013424	2913424	DUP	11p15.5 duplication: Beckwith-Wiedemann syndrome/Silver-Russell syndrome	19		
+Betancur Table 1	11	2150346	2170833		Aberrant imprinting of IGF2 is associated with BeckwithWiedermann syndrome and SilverRussell syndrome; IGF2	20	Dup of: 19	
+Betancur Table 2	11	31803509	32510988	DEL	WAGR syndrome (11p13 deletion syndrome) 	21		
+Cooper Table 1	11	43983424	46063424	DEL/DUP	DEL: Potocki-Shaffer syndrome (EXT2)a, DUP: 11p11.2 duplication (EXT2)a	22		
+Betancur Table 2	11	43985277	46064560	DEL	Potocki-Shaffer syndrome (11p11.2 deletion syndrome)	23	Dup of: 22	
+Betancur Table 1	11	532241	535550		Costello syndrome; HRAS	24		
+Cooper Table 1	11	67753424	71282352	DEL/DUP	DEL: SHANK2 FGFs deletion, DUP: SHANK2 FGFs duplication	25		
+Betancur Table 1	11	70313960	70935808		non-syndromic MR and ASD; SHANK2	26	Dup of: 25	
+Betancur Table 1	11	71145456	71159477		Smith-Lemli-Opitz syndrome; DHCR7	27	Dup of: 25	
+Betancur Table 1	11	71900601	71907367		Cerebral folate transport deficiency; FOLR1 	28		
+Betancur Table 1	12	103232103	103311381		Phenylketonuria; PAH	29		
+Betancur Table 1	12	112856535	112947717		Noonan syndrome; PTPN11	30		
+Betancur Table 1	12	2162415	2807115		Timothy syndrome; CACNA1C	31		
+Betancur Table 1	12	25358179	25403854		Cardio-facio-cutaneous syndrome; KRAS	32		
+Cooper Table 1	12	65073733	68643733	DEL/DUP	DEL: 12q14 deletion syndrome (GRIP1, HMGA2)a, DUP: 12q14 duplication (GRIP1, HMGA2)a	33		
+Betancur Table 1	12	65107221	65153226		Mucopolysaccharidosis type IIID (Sanfilippo disease D); GNS	34	Dup of: 33	
+Cooper Table 2	12	8158733	8358733	DUP	possibly pathogenic duplication: 12p13.31	35		
+Betancur Table 1	12	88442789	88535993		Joubert syndrome 5, Leber congenital amaurosis, Bardet-Biedl syndrome 14, Meckel syndrome 4; CEP290 (NPHP6)	36		
+Cooper Table 1	13	20812000	21012000	DEL/DUP	DEL: 13q12 deletion (CRYL1)a, DUP: 13q12 duplication (CRYL1)a	37		
+Betancur Table 1	14	29236277	29239483		congenital variant of Rett syndrome; FOXG1	38		
+Betancur Table 1	14	50709151	50778947		L-2-hydroxyglutaric aciduria; L2HGDH	39		
+Cooper Table 1	15	22798636	23088559	DEL/DUP	DEL: 15q11.2 deletion (NIPA1), DUP: 15q11.2 duplication (NIPA1)	40		
+Betancur Table 2	15	23758390	28557186	DEL/DUP	Angelman syndrome (maternal deletion), Prader-Willi syndrome (paternal deletion), 15q11-q13 duplication (most often maternal)	41		
+Cooper Table 1	15	24818907	28426405	DEL/DUP	DEL: Prader-Willi/Angelman, DUP: Prader-Willi/Angelman region duplication	42	Dup of: 41	
+Betancur Table 1	15	25582395	25684175		Angelman syndrome; UBE3A	43	Dup of: 41 , 42	
+Betancur Table 2	15	30769995	32701482	DEL/DUP	15q13.3 microdeletion/microduplication syndrome	44		
+Cooper Table 1	15	31132708	32482708	DEL/DUP	DEL: 15q13.3 deletion (CHRNA7), DUP: 15q13.3 duplication (CHRNA7)	45	Dup of: 44	
+Betancur Table 1	15	45653321	45670980		Arginine:glycine amidinotransferase (AGAT) deficiency; GATM (AGAT)	46		
+Betancur Table 1	15	66679210	66783882		Cardio-facio-cutaneous syndrome; MAP2K1 (MEK1)	47		
+Cooper Table 1	15	72912946	74412947	DEL/DUP	DEL: 15q24 BP0-BP1 deletion (BBS4, NPTN, NEO1), DUP: 15q24 BP0-BP1 duplication (BBS4, NPTN, NEO1)	48		
+Cooper Table 1	15	72912946	75792945	DEL/DUP	DEL: 15q24 BP0-BP1 (PML), DUP: 15q24 BP0-BP1 (PML)	49		
+Betancur Table 2	15	74377174	76162277	DEL	15q24 recurrent microdeletion syndrome	50	Dup of: 49	
+Cooper Table 1	15	75972945	78202945	DEL/DUP	DEL: 15q24 BP2-BP3 deletion (FBXO22, TPSAN3), DUP: 15q24 BP2-BP3 duplication (FBXO22, TPSAN3)	51		
+Cooper Table 1	15	83182945	84738996	DEL/DUP	DEL: 15q25.2 deletion (HOMER2, BNC1), DUP: 15q25.2 duplication (HOMER2, BNC1)	52		
+Cooper Table 2	15	85098996	85798996	DEL	possibly pathogenic deletion: 15q25	53		
+Betancur Table 2	15	99357970	102521392		15q26 overgrowth syndrome	54		
+Cooper Table 1	15	99362477	102521392	DEL/DUP	DEL: None, DUP: None	55	Dup of: 54	
+Cooper Table 1	16	15502499	16292499	DEL/DUP	DEL: 16p13.11 deletion (MYH11), DUP: 16p13.11 duplication (MYH11)	56		
+Betancur Table 2	16	15504454	16284248	DEL/DUP	16p13.11 microdeletion/microduplication	57	Dup of: 56	
+Betancur Table 1	16	2097989	2138713		Tuberous sclerosis; TSC2	58		
+Cooper Table 1	16	21352499	29442499	DEL/DUP	DEL: 16p11.2p12.1 deletion, DUP: 16p11.2p12.1 duplication	59		
+Betancur Table 2	16	21613956	29042192	DEL/DUP	16p11.2-p12.2 microdeletion/microduplication syndrome	60	Dup of: 59	
+Cooper Table 1	16	21942499	22462499	DEL/DUP	DEL: 16p12.1 deletion (EEF2K, CDR2), DUP: 16p12.1 duplication (EEF2K, CDR2)	61	Dup of: 60	
+Cooper Table 1	16	28772499	29112499	DEL/DUP	DEL: 16p11.2 distal deletion (SH2B1), DUP: 16p11.2 distal duplication (SH2B1)	62	Dup of: 60	
+Betancur Table 2	16	29501198	30202569	DEL/DUP	16p11.2 microdeletion/microduplication syndrome	63		
+Cooper Table 1	16	29652499	30202499	DEL/DUP	DEL: 16p11.2 deletion (TBX6), DUP: 16p11.2 duplication (TBX6)	64	Dup of: 63	
+Betancur Table 1	16	3775055	3930121		Rubinstein-Taybi syndrome; CREBBP	65		
+Cooper Table 1	16	3779999	3859999	DEL/DUP	DEL: Rubinstein-Taybi Syndromea, DUP: Rubinstein-Taybi region duplication	66	Dup of: 65	
+Betancur Table 2	16	3781464	3861246	DEL/DUP	Rubinstein-Taybi syndrome (deletion), 16p13.3 duplication syndrome 	67	Dup of: 65 , 66	
+Betancur Table 1	16	53633817	53737771		Joubert syndrome 7, Meckel syndrome, COACH syndrome; RPGRIP1L	68		
+Betancur Table 2	17	1	2545429	DEL/DUP	17p13.3 microdeletion (Miller-Dieker syndrome, isolated lissencephaly), 17p13.3 microduplication	69		
+Betancur Table 1	17	1247833	1303556		Miller-Dieker syndrome; YWHAE	70	Dup of: 69 , 86 , 87	
+Cooper Table 1	17	14069275	15499275	DEL/DUP	DEL: HNPP (PMP22), DUP: CMT1A (PMP22)	71		
+Betancur Table 2	17	16706021	20482061	DEL/DUP	Smith-Magenis syndrome (deletion), Potocki-Lupski syndrome (duplication)	72		
+Cooper Table 1	17	16709274	20479408	DEL/DUP	DEL: Smith-Magenis syndrome deletion, DUP: Potocki-Lupski syndrome	73	Dup of: 72	
+Betancur Table 1	17	17584786	17714765	DEL/DUP	Smith-Magenis syndrome (deletion, mutation), Potocki-Lupski syndrome (duplication); RAI1	74	Dup of: 72 , 73	
+Cooper Table 1	17	2363250	2923250	DEL/DUP	DEL: 17p13.3 deletion (including YWHAE)a, DUP: 17p13.3 duplication (including YWHAE)a	75		
+Betancur Table 1	17	2496922	2588909		isolated lissencephaly, Miller-Dieker syndrome; PAFAH1B1 (LIS1)	76	Dup of: 69 , 75 , 86	
+Betancur Table 2	17	29162822	30218667	DEL/DUP	NF1 microdeletion/microduplication syndrome	77		
+Cooper Table 1	17	29165874	30215887	DEL/DUP	DEL: NF1 deletion syndrome, DUP: NF1 duplication	78	Dup of: 77	
+Betancur Table 1	17	29297955	29326929		overgrowth syndrome; haploinsufficiency of RNF135 contributes to the phenotype of the NF1 microdeletion syndrome; RNF135	79	Dup of: 77 , 78	
+Betancur Table 1	17	29421944	29704695		Neurofibromatosis type 1; NF1	80	Dup of: 77 , 78	
+Cooper Table 1	17	34815887	36205887	DEL/DUP	DEL: RCAD (renal cysts and diabetes) (TCF2), DUP: 17q12 duplication	81		
+Betancur Table 2	17	34907366	36076803	DEL/DUP	17q12 deletion (RCAD syndrome, renal cysts and diabetes syndrome),17q12 duplication	82	Dup of: 81	
+Betancur Table 1	17	40687950	40696466		Mucopolysaccharidosis type IIIB (Sanfilippo syndrome B); NAGLU	83		
+Betancur Table 2	17	43632466	44210205	DEL/DUP	17q21.31 microdeletion/microduplication syndrome	84		
+Cooper Table 1	17	43704217	44184217	DEL/DUP	DEL: 17q21.31 deletion (MAPT), DUP: 17q21.31 duplication (MAPT)	85	Dup of: 84	
+Cooper Table 1	17	50000	2593250	DEL/DUP	DEL: 17p13.3 deletion (both YWHAE and PAFAH1B1)a, DUP: 17p13.3 duplication (both YWHAE and PAFAH1B1)a	86	Dup of: 69	
+Cooper Table 1	17	553250	1353250	DEL/DUP	DEL: 17p13.3 deletion (including PAFAH1B1)a, DUP: 17p13.3 duplication (including PAFAH1B1)a	87	Dup of: 69	
+Betancur Table 1	17	78183078	78194199		Sanfilippo syndrome A (mucopolysaccharidosis III A); SGSH	88		
+Betancur Table 1	17	7905987	7923658		Leber congenital amaurosis; GUCY2D	89		
+Betancur Table 1	19	13106583	13209610		Sotos-like overgrowth syndrome, Marshall-Smith syndrome; NFIX	90		
+Betancur Table 1	19	1397024	1401569		guanidine acetate methyltransferase (GAMT) deficiency; GAMT	91		
+Betancur Table 1	19	46272975	46285815		Myotonic dystrophy type 1 (Steinert disease); DMPK	92		
+Cooper Table 1	2	100693568	108443568	DEL/DUP	DEL: 2q11.2q13 deletion (NCK2, FHL2), DUP: 2q11.2q13 duplication (NCK2, FHL2)	93		
+Cooper Table 1	2	110822711	110982711	DEL/DUP	DEL: 2q13 deletion (NPHP1), DUP: 2q13 duplication (NPHP1)	94		
+Betancur Table 1	2	110880913	110962639		Joubert syndrome type 4, nephronophthisis; NPHP1	95	Dup of: 94	
+Cooper Table 2	2	111333937	113133529	DUP	possibly pathogenic duplication: 2q13	96		
+Cooper Table 2	2	111333937	113233529	DEL	possibly pathogenic deletion: 2q13	97		
+Betancur Table 1	2	148778579	149271044		autosomal dominant MR, responsible for the 2q23.1 microdeletion syndrome; MBD5	98		
+Betancur Table 2	2	149216038	149271044	DEL	2q23.1 microdeletion syndrome 	99	Dup of: 98	
+Cooper Table 2	2	165691754	166391754	DEL	possibly pathogenic deletion: 2q24.3	100		
+Betancur Table 1	2	166845669	167005642		severe myoclonic epilepsy of infancy (Dravet syndrome); SCN1A	101		
+Betancur Table 2	2	196925089	205206940	DEL	2q33.1 deletion syndrome 	102		
+Betancur Table 1	2	200134222	200335989		Happloinsufficiency of SATB2 causes some of the clinical features of the 2q33.1 microdeletion syndrome; SATB2	103	Dup of: 102	
+Cooper Table 1	2	239705243	242471327	DEL/DUP	DEL: 2q37 deletion (HDAC4)a, DUP: 2q37 duplication (HDAC4)a	104	Dup of: 105	
+Betancur Table 2	2	239954693	243102476		2q37 monosomy	105		
+Cooper Table 2	2	3270993	3470993	DUP	possibly pathogenic duplication: 2p25.3	106		
+Cooper Table 2	2	45346496	46046496	DUP	possibly pathogenic duplication: 2p21	107		
+Betancur Table 1	2	50145642	51259674		disrupted in ASD, MR, schizophrenia (autosomal dominant?); Pitt-Hopkins-like syndrome-2 (autosomal recessive); NRXN1	108		
+Betancur Table 2	2	57741796	61738334	DEL	2p15-16.1 microdeletion syndrome 	109		
+Cooper Table 1	2	96726273	97676273	DEL/DUP	DEL: 2q11.2 deletion (LMAN2L, ARID5A), DUP: 2q11.2 duplication (LMAN2L, ARID5A)	110		
+Betancur Table 1	20	10385427	10414887		Bardet-Biedl syndrome; MKKS	111		
+Betancur Table 2	21	10697897	48119895	DUP	Down syndrome (trisomy 21)	112		
+Cooper Table 2	21	21028129	21328129	DEL	possibly pathogenic deletion: 21q21.1	113	Dup of: 112	
+Betancur Table 2	22	18546349	22336469	DEL/DUP	22q11 deletion syndrome (velocardiofacial/DiGeorge syndrome), 22q11 duplication syndrome	114		
+Sullivan Table 2	22	18700000	21800000	DEL/DUP	22q11.21; Deletion or duplication; Developmental delay, intellectual disability, velocardiofacial-DiGeorge syndrome	115	Dup of: 114	
+Cooper Table 1	22	19020000	20290000	DEL/DUP	DEL: DiGeorge/VCFS deletion, DUP: 22q11.2 duplication	116	Dup of: 114 , 115	
+Betancur Table 1	22	19744225	19771112		responsible for some of the phenotypic features of the 22q11 deletion syndrome (velocardiofacial/DiGeorge syndrome) ; TBX1	117	Dup of: 114 , 115 , 116	
+Cooper Table 1	22	21910000	23650000	DEL/DUP	DEL: 22q11.2 distal deletion (BCR, MAPK1), DUP: 22q11.2 distal duplication (BCR, MAPK1)	118		
+Betancur Table 1	22	40742503	40762575		adenylosuccinate lyase deficiency; ADSL	119		
+Betancur Table 2	22	51045516	51187844	DEL/DUP	22q13 deletion syndrome (Phelan-McDermid syndrome), 22q13 duplication	120		
+Betancur Table 1	22	51113069	51171640		22q13 deletion syndrome (Phelan-McDermid syndrome); SHANK3	121	Dup of: 120 , 122	
+Cooper Table 1	22	51113134	51173134	DEL/DUP	DEL: Phelan-McDermid syndrome deletion (SHANK3)a, DUP: 22q13 duplication (SHANK3)a	122	Dup of: 120	
+Betancur Table 1	3	15643254	15687325		Biotinidase deficiency; BTD	123		
+Betancur Table 2	3	195672229	197497869	DEL/DUP	3q29 microdeletion/microduplication syndrome	124		
+Cooper Table 1	3	195745603	197355603	DEL/DUP	DEL: 3q29 deletion (DLG1), DUP: 3q29 duplication (DLG1)	125	Dup of: 124	
+Betancur Table 1	3	71003864	71633140		non-syndromic MR and autism; FOXP1	126		
+Betancur Table 2	4	10001	2073670		Wolf-Hirschhorn syndrome	127		
+Betancur Table 1	4	119201192	119273922		autosomal recessive non-syndromic MR; PRSS12	128		
+Cooper Table 1	4	1870202	2010202	DEL/DUP	DEL: Wolf-Hirschhorn deletion (WHSC1, WHSC2)a, DUP: Wolf-Hirschhorn region duplication	129	Dup of: 127	
+Cooper Table 2	4	81730976	83130976	DEL	possibly pathogenic deletion: 4q21.21 - q21.22	130		
+Betancur Table 2	4	82009851	82963464	DEL	4q21 microdeletion syndrome	131	Dup of: 130	
+Cooper Table 2	4	9840902	10840902	DUP	possibly pathogenic duplication: 4p16.1	132		
+Betancur Table 2	5	10001	11723854	DEL	Cri du Chat syndrome (5p deletion) 	133		
+Betancur Table 1	5	125877532	125931082		Pyridoxine-dependent epilepsy; ALDH7A1	134		
+Betancur Table 2	5	175130402	177456545	DEL/DUP	Sotos syndrome (deletion), 5q35.2q35.3 duplication	135		
+Cooper Table 1	5	175717394	177057394	DEL/DUP	DEL: Sotos syndrome deletion (NSD1), DUP: 5q35 duplication (NSD1)	136	Dup of: 135	
+Betancur Table 1	5	176560079	176727214		Sotos syndrome; NSD1	137	Dup of: 135 , 136	
+Betancur Table 1	5	36876860	37065921		Cornelia de Lange syndrome; NIPBL	138		
+Betancur Table 1	5	88014057	88199922	DEL	syndromic MR, responsible for the 5q14.3 microdeletion syndrome; MEF2C	139		
+Betancur Table 2	5	88016166	88179024	DEL	5q14.3 microdeletion syndrome	140	Dup of: 139	
+Cooper Table 1	6	100813279	100943279	DEL/DUP	DEL: 6q16 deletion (SIM1)a, DUP: 6q16 duplication (SIM1)a	141		
+Betancur Table 1	6	135605109	135818903		Joubert syndrome 3; AHI1	142		
+Cooper Table 2	6	20742021	21142021	DEL	possibly pathogenic deletion: 6p22.3	143		
+Betancur Table 1	6	24495196	24537435		Succinic semialdehyde dehydrogenase deficiency (gamma-hydroxybutyric aciduria); ALDH5A1	144		
+Betancur Table 1	6	33387846	33421466		non-syndromic MR; SYNGAP1	145		
+Betancur Table 1	7	140433812	140624564		Cardio-facio-cutaneous syndrome; BRAF	146		
+Betancur Table 1	7	145813452	148118088		Cortical dysplasia-focal epilepsy syndrome, Pitt-Hopkins-like syndrome-1 (autosomal recessive); the clinical significance of the disruption of 1 allele is unknown; CNTNAP2	147		
+Betancur Table 1	7	27132613	27135625		HOXA1 syndrome, Bosley-Salih-Alorainy variant; HOXA1	148		
+Betancur Table 2	7	72332743	74616901	DEL/DUP	Williams-Beuren syndrome (deletion), 7q11.23 duplication syndrome	149		
+Cooper Table 1	7	72742064	74142064	DEL/DUP	DEL: Williams syndrome deletion (ELN, GTF2I), DUP: Williams syndrome duplication (ELN, GTF2I)	150	Dup of: 149	
+Cooper Table 1	7	74962064	76662064	DEL/DUP	DEL: WBS-distal deletion (RHBDD2, HIP1), DUP: WBS-distal duplication (RHBDD2, HIP1)	151		
+Betancur Table 1	8	100025493	100889814		Cohen syndrome; VPS13B	152		
+Betancur Table 1	8	42995591	43057970		Mucopolysaccharidosis type IIIC (Sanfilippo syndrome C); HGSNAT	153		
+Cooper Table 2	8	53287447	53887447	DUP	possibly pathogenic duplication: 8q11.23	154		
+Betancur Table 1	8	61591323	61780586		CHARGE syndrome; CHD7	155		
+Cooper Table 1	8	8092590	11892591	DEL/DUP	DEL: 8p23.1 deletion (SOX7, CLDN23), DUP: 8p23.1 duplication (SOX7, CLDN23)	156		
+Betancur Table 2	8	8119295	11765719	DEL/DUP	8p23.1 deletion/duplication syndrome 	157	Dup of: 156	
+Betancur Table 1	9	130374485	130454995		autosomal dominant non-syndromic epilepsy, MR and autism; STXBP1	158		
+Betancur Table 1	9	134378288	134399193		Limb-girdle muscular dystrophy with MR; Walker-Warburg syndrome; POMT1	159		
+Betancur Table 1	9	135766734	135820020		Tuberous sclerosis; TSC1	160		
+Cooper Table 1	9	137810179	141080179	DEL/DUP	DEL: 9q34 deletion (EHMT1)a, DUP: 9q34 duplication (EHMT1)a	161		
+Betancur Table 2	9	140403363	141153431	DEL	9q subtelomeric deletion syndrome (Kleefstra syndrome)	162	Dup of: 161	
+Betancur Table 1	9	140513443	140730578		EHMT1 is responsible for the core phenotype of the 9q subtelomeric deletion syndrome (Kleefstra syndrome); EHMT1	163	Dup of: 161 , 162	
+Betancur Table 1	X	10413349	10851809		Opitz syndrome (Opitz/BBB syndrome); MID1	164	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	108884563	108976621		non-syndromic X-linked MR; ACSL4	165	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	110537006	110655460		Type 1 lissencephaly; DCX	166	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	115301957	115306225		non-syndromic X-linked MR; AGTR2	167	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	118967988	118986991		non-syndromic X-linked MR; UPF3B	168	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	119560002	119603204		Danon disease; LAMP2	169	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	122318095	122624766		non-syndromic X-linked MR; GRIA3	170	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	128674251	128726530		Lowe syndrome; OCRL	171	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	133507341	133562822		Borjeson-Forssman-Lehmann syndrome; PHF6	172	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	135067582	135129428		syndromic X-linked MR, Christianson type; SLC9A6	173	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	135747711	135863503		non-syndromic X-linked MR; ARHGEF6	174	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	146993468	147032647		Fragile X syndrome; FMR1	175	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	147582138	148082193		Fragile X mental retardation 2; AFF2	176	Dup of: 204 , 205 , 206	
+Betancur Table 2	X	152749900	153390999	DUP	Xq28 duplication syndrome (MECP2 duplication syndrome)	177		
+Betancur Table 1	X	152953751	152962048		Creatine deficiency syndrome, non-syndromic X-linked MR; SLC6A8	178	Dup of: 177 , 204 , 205 , 206	
+Betancur Table 1	X	153126970	153141399		MASA (mental retardation, aphasia, shuffling gait, and adducted thumbs) syndrome; L1CAM	179	Dup of: 177 , 204 , 205 , 206	
+Betancur Table 1	X	153287263	153363188		Rett syndrome, non-syndromic X-linked MR (mutation, deletion); MECP2 duplication syndrome; MECP2	180	Dup of: 177 , 204 , 205 , 206	
+Betancur Table 1	X	154487525	154493852		non-syndromic X-linked MR; RAB39B	181	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	15843928	15873100		syndromic and non-syndromic X-linked MR; AP1S2	182	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	17393542	17754113		Nance-Horan syndrome; NHS	183	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	18443724	18671749		Rett-like syndrome with infantile spasms; CDKL5	184	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	23352984	23414918		non-syndromic X-linked MR and ASD; PTCHD1	185	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	25021812	25034065		X-linked lissencephaly and abnormal genitalia, West syndrome, Partington syndrome, non-syndromic X-linked MR; ARX	186	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	28605680	29974017		non-syndromic X-linked MR and ASD; IL1RAPL1	187	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	31137344	33357726		Muscular dystrophy, Duchenne and Becker types; DMD	188	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	38211735	38280703		Ornithine transcarbamylase deficiency; OTC	189	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	41374188	41782287		syndromic and non-syndromic X-linked MR; CASK	190	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	43808023	43832921		Norrie disease; NDP	191	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	46357159	46404892		non-syndromic X-linked MR; ZNF674	192	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	47431299	47479256		X-linked epilepsy and MR; SYN1	193	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	47696300	47781655		non-syndromic X-linked MR; ZNF81	194	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	48334548	48344752		non-syndromic X-linked MR; FTSJ1	195	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	48755194	48760422		Renpenning syndrome, non-syndromic MR; PQBP1	196	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	49061522	49089833		X-linked incomplete congenital stationary night blindness, severe form; CACNA1F	197	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	53220502	53254604		syndromic and non-syndromic X-linked MR; JARID1C	198	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	53262057	53350522		non-syndromic X-linked MR; IQSEC2	199	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	53401069	53449618		Cornelia de Lange syndrome; SMC1A	200	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	53963112	54071569		Siderius-Hamel syndrome; PHF8	201	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	54471886	54522599		Aarskog-Scott syndrome, non-syndromic X-linked MR; FGD1	202	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	5808082	6146706		non-syndromic X-linked MR and ASD; NLGN4X	203	Dup of: 204 , 205 , 206	
+Betancur Table 2	X	60001	155260560		Turner syndrome (X0)	204		Identical to 205 , 206
+Betancur Table 2	X	60001	155260560		Klinefelter syndrome (XXY)	205		Identical to 204 , 206
+Betancur Table 2	X	60001	155260560		45,X/46,XY mosaicism	206		Identical to 204 , 205
+Betancur Table 1	X	67262185	67653299		MR with cerebellar and vermis hypoplasia; OPHN1	207	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	70338405	70362304		Lujan-Fryns syndrome; MED12	208	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	70364680	70391051		non-syndromic X-linked MR and ASD; NLGN3	209	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	73952690	74145287		syndromic X-linked MR; KIAA2022	210	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	76760355	77041719		ATRX syndrome, non-syndromic X-linked MR; ATRX	211	Dup of: 204 , 205 , 206	
+Betancur Table 1	X	99546641	99665271		X-linked female-limited epilepsy and MR; PCDH19	212	Dup of: 204 , 205 , 206	
+Betancur Table 2	Y	10001	5717295		XYY syndrome	213		
